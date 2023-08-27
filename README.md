@@ -1,5 +1,4 @@
-## Repository for Activities 9.1 and 9.2
-
+Radme
 
 <!--
 **Wistycz/Wistycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
